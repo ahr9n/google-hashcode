@@ -9,8 +9,8 @@ int main(){
     cin.sync_with_stdio(0);
 
 
-    freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
+    //freopen("in.txt", "r", stdin);
+    //freopen("out.txt", "w", stdout);
 
 
     int D, I, S, V, F;
