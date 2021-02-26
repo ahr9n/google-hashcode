@@ -1,4 +1,4 @@
-<h1 align="center">Google HashCode 2021</h1>
+<h1 align="center">Google HashCode 2021 Qualification Round</h1>
 
 It was our first participation in HashCode, proudly to say we came in 12th place on Egypt and 892nd worldwide (with around 10k teams participating). Our final score was 9,504,210. It was quite fun and an amazing experience, trying to optimize our answers to the best of our capabilities. Time-consuming and interesting approaches by everyone, so far as I can see! And here, the solutions of Google HashCode 2021 Qualification Round.
 
