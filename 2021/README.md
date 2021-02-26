@@ -2,7 +2,19 @@
 
 It was our first participation in HashCode, proudly to say we came in 12th place on Egypt and 892nd worldwide (with around 10k teams participating). Our final score was 9,504,210. It was quite fun and an amazing experience, trying to optimize our answers to the best of our capabilities. Time-consuming and interesting approaches by everyone, so far as I can see! And here, the solutions of Google HashCode 2021 Qualification Round.
 
-## Our main approach 
+## Our scores
+~~~~~
+A – An example     = 2,002 points
+B – By the ocean   = 4,566,682 points
+C – Checkmate      = 1,300,924 points
+D – Daily commute  = 1,572,848 points
+E – Etoile         = 680,987 points
+F – Forever jammed = 1,380,767 points
+-------------------------------------
+Total score        = 9,504,210 points
+~~~~~
+
+## Our main approach
 It is quite simple! We greedily distributed the periods over streets based on the number of cars that would travel on that street. And randomly decided the ordering of the schedule per intersection. Dataset of D was a real challenge, yet we enjoyed the contest.
 
 ## Things we have learnt
