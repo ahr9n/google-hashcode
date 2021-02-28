@@ -18,7 +18,10 @@ Total score        = 9,504,210 points
 It is quite simple! We greedily distributed the periods over streets based on the number of cars that would travel on that street. And randomly decided the ordering of the schedule per intersection. Dataset of D was a real challenge, yet we enjoyed the contest.
 
 ## Things we have learnt
-There is no perfect solution as we usually do in competitive programming. It's about getting the best approach possible. Trying to aim a good balance between memory and processing while building a solution. Actually, you might submit a good solution for dataset A and a bad one for B and then submit a bad solution for A and a good one for B; while the best scoring of your submissions of each will be considered!
+* There is no perfect solution as we usually do in competitive programming. 
+* It's all about getting the best approach possible. 
+* Trying to aim a good balance between memory and processing while building a solution. 
+* Actually, you might submit a good solution for dataset A and a bad one for B and then submit a bad solution for A and a good one for B; while the best scoring of your submissions of each will be considered!
 
 ## Contribution
 > This couldn't have been possible without my awesome teammates:
